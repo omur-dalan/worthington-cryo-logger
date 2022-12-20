@@ -8,7 +8,7 @@ Control Panel (M507CE-IEC) has a Digi Connect ME RS232 to Ethernet Adapter which
 
 * You should install the Realport Driver to your operating system and make sure that you have a virtual COM port (tty on linux) working. To validate the communication, connect to the specific port and send "@03S000000000096" string exactly. If you receive a string like "@03R2212201408AB0000001BC1" that means you are good to go. (Hint: Putty for Windows or Screen for Linux)
 
-You can download the realport driver files here : https://hub.digi.com/support/products/realport/?path=/support/asset-collection/connect-sp-os-specific-drivers/
+You can download the realport driver files here : https://hub.digi.com/support/products/realport/?path=/support/asset-collection/connect-sp-os-specific-drivers/ Please refer to the instructions inside the README file which comes with the driver.
 
 ## Example string received from control unit:
 @03R2212201408AB0000001BC1
