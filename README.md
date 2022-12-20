@@ -25,3 +25,11 @@ You can download the realport driver files here : https://hub.digi.com/support/p
 8. Part - Unknown (Possible event/log id, should be always increasing)
 
 Temperature part is the 7th part.
+
+## Installation
+
+pip install -r requirements.txt
+
+## Usage
+
+python3 getData.py
